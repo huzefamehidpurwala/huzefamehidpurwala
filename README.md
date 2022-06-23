@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://huzefa.mehidpurwala.xyz/assets/img/1.png" align="center" style="width: 100%" alt="https://huzefa.mehidpurwala.xyz/assets/img/1.png"/>
+<img src="https://huzefa.mehidpurwala.xyz/assets/img/2.png" align="center" style="width: 100%" alt="https://huzefa.mehidpurwala.xyz/assets/img/1.png"/>
 </div>  
 
 # <div align="center">Hello Folks!👋 </div>
