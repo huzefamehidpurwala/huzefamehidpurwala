@@ -3,7 +3,7 @@
 </div>  
 
 # <div align="center">Hello Folks!👋 </div>
-### <div align="center">I'm Huzefa, a student at [Medi-Caps University](https://https://www.medicaps.ac.in/)👨‍💻 stepped into IT world in 2016 🚀 by working as a supporter with a Network Engineer in Indore.</div>  
+### <div align="center">I'm Huzefa, a 3rd year student at [Medi-Caps University](https://https://www.medicaps.ac.in/) pursuing BCA Integrated👨‍💻 stepped into IT world in 2016 🚀 by working as a supporter with a Network Engineer in Indore.</div>  
   
 
 - 🔭 I’m currently getting ready for a Cybersecurity or Networking Job  
